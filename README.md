@@ -17,12 +17,12 @@ Support for @BuildingRandomStuff’s ALT PCB and the R+D PCB, with a translucent
 
 An alternative drive option to use @SaladDressing’s Capstan drive system.
 
-Support for -
-Motors	:	42AIM, 57AIM, 60AIM series & 60AIM40F
-PCB	:	R+D & ALT
-Rails	:	MGN12, MGN15 & HGR20
-Drive Mechanism	:	Belt or Capstan
-Belts	:	2MGT, 3MGT & HTD-3M
+Support for -  
+Motors	:	42AIM, 57AIM, 60AIM series & 60AIM40F  
+PCB	:	R+D & ALT  
+Rails	:	MGN12, MGN15 & HGR20  
+Drive Mechanism	:	Belt or Capstan  
+Belts	:	2MGT, 3MGT & HTD-3M  
 Add-ons	:	Stroker Module 	(hopefully more in future)
 
 Special thanks to @Frayd for their input and putting up with me being "extra" on calls to discuss the project.
