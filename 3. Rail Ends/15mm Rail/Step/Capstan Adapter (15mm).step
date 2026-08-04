@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Capstan Adapter (15mm).step',
-/* time_stamp */ '2026-07-17T17:24:53+02:00',
+/* time_stamp */ '2026-08-04T10:04:47+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -8379,7 +8379,7 @@ SOLID_ANGLE_UNIT()
 #7443=PRODUCT_DEFINITION_SHAPE('',$,#7446);
 #7444=SHAPE_REPRESENTATION('',(#2376),#7436);
 #7445=PRODUCT_DEFINITION_CONTEXT('part definition',#7450,'design');
-#7446=PRODUCT_DEFINITION('2026-07-17-17-24-52-907',
+#7446=PRODUCT_DEFINITION('2026-08-04-10-04-47-554',
 'Capstan Adapter (15mm)',#7447,#7445);
 #7447=PRODUCT_DEFINITION_FORMATION('',$,#7452);
 #7448=PRODUCT_RELATED_PRODUCT_CATEGORY('Capstan Adapter (15mm)',
@@ -8389,7 +8389,7 @@ SOLID_ANGLE_UNIT()
 #7450=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #7451=PRODUCT_CONTEXT('part definition',#7450,'mechanical');
-#7452=PRODUCT('2026-07-17-17-24-52-907','Capstan Adapter (15mm)',$,(#7451));
+#7452=PRODUCT('2026-08-04-10-04-47-554','Capstan Adapter (15mm)',$,(#7451));
 #7453=PRESENTATION_STYLE_ASSIGNMENT((#7455));
 #7454=PRESENTATION_STYLE_ASSIGNMENT((#7456));
 #7455=SURFACE_STYLE_USAGE(.BOTH.,#7457);
