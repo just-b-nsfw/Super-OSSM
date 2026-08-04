@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Guard (R+D) (XL).step',
-/* time_stamp */ '2026-07-24T13:10:55+02:00',
+/* time_stamp */ '2026-08-04T10:34:35+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -88,7 +88,7 @@ SOLID_ANGLE_UNIT()
 #36=PRODUCT_DEFINITION_SHAPE('',$,#39);
 #37=SHAPE_REPRESENTATION('',(#23),#29);
 #38=PRODUCT_DEFINITION_CONTEXT('part definition',#43,'design');
-#39=PRODUCT_DEFINITION('2026-07-24-13-10-55-795','Guard (R+D) (XL)',#40,
+#39=PRODUCT_DEFINITION('2026-08-04-10-34-35-410','Guard (R+D) (XL)',#40,
 #38);
 #40=PRODUCT_DEFINITION_FORMATION('',$,#45);
 #41=PRODUCT_RELATED_PRODUCT_CATEGORY('Guard (R+D) (XL)',
@@ -98,7 +98,7 @@ SOLID_ANGLE_UNIT()
 #43=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #44=PRODUCT_CONTEXT('part definition',#43,'mechanical');
-#45=PRODUCT('2026-07-24-13-10-55-795','Guard (R+D) (XL)',$,(#44));
+#45=PRODUCT('2026-08-04-10-34-35-410','Guard (R+D) (XL)',$,(#44));
 #46=PRESENTATION_STYLE_ASSIGNMENT((#48));
 #47=PRESENTATION_STYLE_ASSIGNMENT((#49));
 #48=SURFACE_STYLE_USAGE(.BOTH.,#50);
