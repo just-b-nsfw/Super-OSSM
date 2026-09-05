@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Guard (R+D).step',
-/* time_stamp */ '2026-08-04T10:34:29+02:00',
+/* time_stamp */ '2026-09-05T11:31:05+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -2354,7 +2354,7 @@ SOLID_ANGLE_UNIT()
 #2117=PRODUCT_DEFINITION_SHAPE('',$,#2120);
 #2118=SHAPE_REPRESENTATION('',(#1062),#2110);
 #2119=PRODUCT_DEFINITION_CONTEXT('part definition',#2124,'design');
-#2120=PRODUCT_DEFINITION('2026-08-04-10-34-29-251','Guard (R+D)',#2121,
+#2120=PRODUCT_DEFINITION('2026-09-05-11-31-05-655','Guard (R+D)',#2121,
 #2119);
 #2121=PRODUCT_DEFINITION_FORMATION('',$,#2126);
 #2122=PRODUCT_RELATED_PRODUCT_CATEGORY('Guard (R+D)','Guard (R+D)',(#2126));
@@ -2363,7 +2363,7 @@ SOLID_ANGLE_UNIT()
 #2124=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #2125=PRODUCT_CONTEXT('part definition',#2124,'mechanical');
-#2126=PRODUCT('2026-08-04-10-34-29-251','Guard (R+D)',$,(#2125));
+#2126=PRODUCT('2026-09-05-11-31-05-655','Guard (R+D)',$,(#2125));
 #2127=PRESENTATION_STYLE_ASSIGNMENT((#2129));
 #2128=PRESENTATION_STYLE_ASSIGNMENT((#2130));
 #2129=SURFACE_STYLE_USAGE(.BOTH.,#2131);

@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Ring.step',
-/* time_stamp */ '2026-08-04T10:34:08+02:00',
+/* time_stamp */ '2026-09-05T11:30:45+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -12518,7 +12518,7 @@ SOLID_ANGLE_UNIT()
 #11282=PRODUCT_DEFINITION_SHAPE('',$,#11285);
 #11283=SHAPE_REPRESENTATION('',(#5768),#11275);
 #11284=PRODUCT_DEFINITION_CONTEXT('part definition',#11289,'design');
-#11285=PRODUCT_DEFINITION('2026-08-04-10-34-07-996','Ring',#11286,#11284);
+#11285=PRODUCT_DEFINITION('2026-09-05-11-30-45-188','Ring',#11286,#11284);
 #11286=PRODUCT_DEFINITION_FORMATION('',$,#11291);
 #11287=PRODUCT_RELATED_PRODUCT_CATEGORY('Ring','Ring',(#11291));
 #11288=APPLICATION_PROTOCOL_DEFINITION('international standard',
@@ -12526,7 +12526,7 @@ SOLID_ANGLE_UNIT()
 #11289=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #11290=PRODUCT_CONTEXT('part definition',#11289,'mechanical');
-#11291=PRODUCT('2026-08-04-10-34-07-996','Ring',$,(#11290));
+#11291=PRODUCT('2026-09-05-11-30-45-188','Ring',$,(#11290));
 #11292=PRESENTATION_STYLE_ASSIGNMENT((#11294));
 #11293=PRESENTATION_STYLE_ASSIGNMENT((#11295));
 #11294=SURFACE_STYLE_USAGE(.BOTH.,#11296);
