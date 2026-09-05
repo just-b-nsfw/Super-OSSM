@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Dogbone (Bolt).step',
-/* time_stamp */ '2026-07-17T19:06:15+02:00',
+/* time_stamp */ '2026-09-05T09:45:00+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -1101,7 +1101,7 @@ SOLID_ANGLE_UNIT()
 #1047=PRODUCT_DEFINITION_SHAPE('',$,#1050);
 #1048=SHAPE_REPRESENTATION('',(#600),#1040);
 #1049=PRODUCT_DEFINITION_CONTEXT('part definition',#1054,'design');
-#1050=PRODUCT_DEFINITION('2026-07-17-19-06-15-592','Dogbone (Bolt)',#1051,
+#1050=PRODUCT_DEFINITION('2026-09-05-09-45-00-427','Dogbone (Bolt)',#1051,
 #1049);
 #1051=PRODUCT_DEFINITION_FORMATION('',$,#1056);
 #1052=PRODUCT_RELATED_PRODUCT_CATEGORY('Dogbone (Bolt)',
@@ -1111,7 +1111,7 @@ SOLID_ANGLE_UNIT()
 #1054=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1055=PRODUCT_CONTEXT('part definition',#1054,'mechanical');
-#1056=PRODUCT('2026-07-17-19-06-15-592','Dogbone (Bolt)',$,(#1055));
+#1056=PRODUCT('2026-09-05-09-45-00-427','Dogbone (Bolt)',$,(#1055));
 #1057=PRESENTATION_STYLE_ASSIGNMENT((#1058));
 #1058=SURFACE_STYLE_USAGE(.BOTH.,#1059);
 #1059=SURFACE_SIDE_STYLE('',(#1060));

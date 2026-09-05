@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Dogbone (Nut).step',
-/* time_stamp */ '2026-07-17T19:06:21+02:00',
+/* time_stamp */ '2026-09-05T09:45:05+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -1667,7 +1667,7 @@ SOLID_ANGLE_UNIT()
 #1611=PRODUCT_DEFINITION_SHAPE('',$,#1614);
 #1612=SHAPE_REPRESENTATION('',(#966),#1604);
 #1613=PRODUCT_DEFINITION_CONTEXT('part definition',#1618,'design');
-#1614=PRODUCT_DEFINITION('2026-07-17-19-06-21-050','Dogbone (Nut)',#1615,
+#1614=PRODUCT_DEFINITION('2026-09-05-09-45-05-004','Dogbone (Nut)',#1615,
 #1613);
 #1615=PRODUCT_DEFINITION_FORMATION('',$,#1620);
 #1616=PRODUCT_RELATED_PRODUCT_CATEGORY('Dogbone (Nut)','Dogbone (Nut)',
@@ -1677,7 +1677,7 @@ SOLID_ANGLE_UNIT()
 #1618=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1619=PRODUCT_CONTEXT('part definition',#1618,'mechanical');
-#1620=PRODUCT('2026-07-17-19-06-21-050','Dogbone (Nut)',$,(#1619));
+#1620=PRODUCT('2026-09-05-09-45-05-004','Dogbone (Nut)',$,(#1619));
 #1621=PRESENTATION_STYLE_ASSIGNMENT((#1622));
 #1622=SURFACE_STYLE_USAGE(.BOTH.,#1623);
 #1623=SURFACE_SIDE_STYLE('',(#1624));

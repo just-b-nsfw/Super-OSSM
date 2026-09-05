@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Spacer.step',
-/* time_stamp */ '2026-07-17T19:06:28+02:00',
+/* time_stamp */ '2026-09-05T09:45:10+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -183,7 +183,7 @@ SOLID_ANGLE_UNIT()
 #131=PRODUCT_DEFINITION_SHAPE('',$,#134);
 #132=SHAPE_REPRESENTATION('',(#78),#124);
 #133=PRODUCT_DEFINITION_CONTEXT('part definition',#138,'design');
-#134=PRODUCT_DEFINITION('2026-07-17-19-06-28-132','Spacer',#135,#133);
+#134=PRODUCT_DEFINITION('2026-09-05-09-45-10-203','Spacer',#135,#133);
 #135=PRODUCT_DEFINITION_FORMATION('',$,#140);
 #136=PRODUCT_RELATED_PRODUCT_CATEGORY('Spacer','Spacer',(#140));
 #137=APPLICATION_PROTOCOL_DEFINITION('international standard',
@@ -191,7 +191,7 @@ SOLID_ANGLE_UNIT()
 #138=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #139=PRODUCT_CONTEXT('part definition',#138,'mechanical');
-#140=PRODUCT('2026-07-17-19-06-28-132','Spacer',$,(#139));
+#140=PRODUCT('2026-09-05-09-45-10-203','Spacer',$,(#139));
 #141=PRESENTATION_STYLE_ASSIGNMENT((#142));
 #142=SURFACE_STYLE_USAGE(.BOTH.,#143);
 #143=SURFACE_SIDE_STYLE('',(#144));
