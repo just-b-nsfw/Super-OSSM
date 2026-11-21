@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Button Foot (ALT - dev).step',
-/* time_stamp */ '2026-11-20T13:30:56+02:00',
+/* name */ 'Button Foot (ALT - Dev).step',
+/* time_stamp */ '2026-11-21T10:28:27+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.2',
@@ -512,7 +512,7 @@ SOLID_ANGLE_UNIT()
 #459=PRODUCT_DEFINITION_SHAPE('',$,#462);
 #460=SHAPE_REPRESENTATION('',(#282),#452);
 #461=PRODUCT_DEFINITION_CONTEXT('part definition',#466,'design');
-#462=PRODUCT_DEFINITION('2026-11-20-13-30-56-241','ALT Cover (Dev)',#463,
+#462=PRODUCT_DEFINITION('2026-11-21-10-28-27-538','ALT Cover (Dev)',#463,
 #461);
 #463=PRODUCT_DEFINITION_FORMATION('',$,#468);
 #464=PRODUCT_RELATED_PRODUCT_CATEGORY('ALT Cover (Dev)',
@@ -522,7 +522,7 @@ SOLID_ANGLE_UNIT()
 #466=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #467=PRODUCT_CONTEXT('part definition',#466,'mechanical');
-#468=PRODUCT('2026-11-20-13-30-56-241','ALT Cover (Dev)',$,(#467));
+#468=PRODUCT('2026-11-21-10-28-27-538','ALT Cover (Dev)',$,(#467));
 #469=PRESENTATION_STYLE_ASSIGNMENT((#471));
 #470=PRESENTATION_STYLE_ASSIGNMENT((#472));
 #471=SURFACE_STYLE_USAGE(.BOTH.,#473);
